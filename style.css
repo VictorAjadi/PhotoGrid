@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@1&family=Contrail+One&display=swap');
+.container{
+    width: auto;
+    margin: 10px;
+    height: auto;
+}
+img{
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+    height: 50%;
+}
+h1{
+    width: 30%;
+    margin-left: 20px;
+    padding:0 0 10px 0;
+    border-bottom: 1px solid rgb(224, 224, 224);
+    font-family: 'Arvo', serif;
+    font-family: 'Contrail One', cursive;
+    font-size: 1.7em;
+    text-transform: uppercase;
+}
